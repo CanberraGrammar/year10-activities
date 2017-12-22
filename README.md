@@ -1,6 +1,6 @@
 # Auto Layout Activity 3
 
-You're designing a new app called Instogram - an instant photo sharing app, not to be confused with a similar product with the same name.
+You're designing a new app called Instogram - an instant photo sharing app, not to be confused with a similar product with a similar name.
 
 You user interface needs to display a grid of images and fill the entire safe area of the screen regardless of screen size.
 
