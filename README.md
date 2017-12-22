@@ -7,6 +7,7 @@ You are designing an app for the Head First Lounge, and need to put the logo at 
 <kbd>
   <img src="iPhone8HeadFirstLounge.png">
 </kbd>
+
 .
 
 ...but not quite right on an iPhone 8 Plus:
@@ -14,6 +15,7 @@ You are designing an app for the Head First Lounge, and need to put the logo at 
 <kbd>
   <img src="iPhone8PlusHeadFirstLounge.png">
 </kbd>
+
 .
 
 ...and even worse on an iPhone 5S:
@@ -21,6 +23,7 @@ You are designing an app for the Head First Lounge, and need to put the logo at 
 <kbd>
   <img src="iPhone5SHeadFirstLounge.png">
 </kbd>
+
 .
 
 Apply the correct constraints to the image so that it displays correctly on all screen sizes.
